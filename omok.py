@@ -6,6 +6,7 @@ import math
 #배경
 wn = turtle.Screen()
 wn.bgcolor("yellow")
+wn.title("omok 1.0.3")
 wn.setup(1000,1000)
 
 #장기판 셋업
